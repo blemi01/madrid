@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="itsm" label="ITSM" language="en" table="x_snc_sc_instmgr_demo_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>itsm</element>
+            <help/>
+            <hint/>
+            <label>ITSM</label>
+            <language>en</language>
+            <name>x_snc_sc_instmgr_demo_request</name>
+            <plural>ITSMs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-08 17:05:50</sys_created_on>
+            <sys_id>ea32a1e1db9dbf0031c07416bf9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ITSM</sys_name>
+            <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_sc_instmgr_demo_request_itsm_en</sys_update_name>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-08 17:05:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

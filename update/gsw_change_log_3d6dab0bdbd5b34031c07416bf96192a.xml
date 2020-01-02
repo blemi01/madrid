@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2019-05-13 19:04:47</change_date>
+        <changed_by display_value="">b43ea903db7c330031c07416bf9619dd</changed_by>
+        <content display_value="Quick-Start Discovery">d7d30b615f60130049d89cb3de7313be</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-13 19:04:47</sys_created_on>
+        <sys_id>3d6dab0bdbd5b34031c07416bf96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2019-05-13 19:04:47</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>gsw_change_log_3d6dab0bdbd5b34031c07416bf96192a</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-13 19:04:47</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>

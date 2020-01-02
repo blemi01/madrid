@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Demo Request" max_length="40" name="x_snc_sc_instmgr_demo_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Assigned Instance" max_length="32" name="assigned_instance" reference="x_snc_sc_instmgr_demo_instances" reference_qual="state=1^EQ" reference_qual_condition="state=1^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned Owner" max_length="32" name="assigned_owner" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="CSM" max_length="40" name="csm" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="current user itil" max_length="40" name="current_user_itil" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Account" mandatory="true" max_length="100" name="customer_account" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Needed" mandatory="true" max_length="40" name="date_needed" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="GRC" max_length="40" name="grc" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="HRSD" max_length="40" name="hrsd" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="ITBM" max_length="40" name="itbm" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="ITOM" max_length="40" name="itom" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="ITSM" max_length="40" name="itsm" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Number of Days Needed" mandatory="true" max_length="40" name="number_of_days_needed" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Platform" max_length="40" name="platform" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary Need" mandatory="true" max_length="100" name="primary_need" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Region" max_length="40" name="region" type="string">
+            <choice>
+                <element inactive_on_update="false" label="United States" sequence="0" value="United States"/>
+                <element inactive_on_update="false" label="Canada" sequence="1" value="Canada"/>
+                <element inactive_on_update="false" label="Europe" sequence="2" value="Europe"/>
+                <element inactive_on_update="false" label="Asia/Pac" sequence="3" value="Asia/Pac"/>
+                <element inactive_on_update="false" label="India" sequence="4" value="India"/>
+                <element inactive_on_update="false" label="Latin America" sequence="5" value="Latin America"/>
+                <element inactive_on_update="false" label="Eastern Europe (Emerging Markets)" sequence="6" value="Eastern Europe (Emerging Markets)"/>
+                <element inactive_on_update="false" label="Middle East" sequence="7" value="Middle East"/>
+                <element inactive_on_update="false" label="Africa" sequence="8" value="Africa"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Related Project ID" max_length="40" name="related_project_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Security" max_length="40" name="security" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="No" label="Will there be modifications to the instance?" max_length="40" name="will_there_be_modifications_to_the_instance" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="TBD" sequence="2" value="TBD"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="No" label="Will you require additional technical assistance?" max_length="40" name="will_you_require_additional_technical_assistance" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="TBD" sequence="2" value="TBD"/>
+            </choice>
+        </element>
+    </element>
+</database>

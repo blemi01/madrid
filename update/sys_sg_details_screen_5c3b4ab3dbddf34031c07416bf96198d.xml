@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Assigned Instances">d416bcafdb91f34031c07416bf961911</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">b32bc6b3dbddf34031c07416bf96198e</icon>
+        <item_view display_value="Instance Assignments detail item view">043bc6b3dbddf34031c07416bf961992</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>003b4ab3dbddf34031c07416bf96199b</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-15 19:51:08</sys_created_on>
+        <sys_id>5c3b4ab3dbddf34031c07416bf96198d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_sg_details_screen_5c3b4ab3dbddf34031c07416bf96198d</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-15 19:52:24</sys_updated_on>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=5c3b4ab3dbddf34031c07416bf96198d"/>
+</record_update>

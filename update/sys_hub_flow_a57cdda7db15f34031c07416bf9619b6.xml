@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>initiate_demo_approval</internal_name>
+        <label_cache>[{"name":"d4a589fe-aecb-4bd7-9b05-b23631bb2ade.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"d4a589fe-aecb-4bd7-9b05-b23631bb2ade.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"9b3d1bd5-c712-4389-96c6-f5c386a59ca7.table_name","label":"2.2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"9b3d1bd5-c712-4389-96c6-f5c386a59ca7.record","label":"2.2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Created or Updated_1.current","label":"Trigger➛Demo Request Record","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"reference","base_type":"reference"},{"name":"161a9aa8-b89e-4800-915e-43dd8ad50a75.table_name","label":"3.1➛Demo Request Table","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"table_name","base_type":"table_name"},{"name":"161a9aa8-b89e-4800-915e-43dd8ad50a75.record","label":"3.1➛Demo Request Record","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"reference","base_type":"reference"},{"name":"220f6245-bf50-4892-8867-86fa05928be9.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"220f6245-bf50-4892-8867-86fa05928be9.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"ff7a6a06-ec9c-4fc8-b2ee-df175151d377.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"ff7a6a06-ec9c-4fc8-b2ee-df175151d377.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"23db4c7a-d32a-472f-b986-6398ba9430c1.table_name","label":"2.1➛Demo Request Table","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"table_name","base_type":"table_name"},{"name":"23db4c7a-d32a-472f-b986-6398ba9430c1.record","label":"2.1➛Demo Request Record","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"reference","base_type":"reference"},{"name":"9f17b9a9-65cb-4dc2-966a-4d5ce814078f.approval_state","label":"1➛Approval State","type":"choice","base_type":"choice"},{"name":"Created_1.current","label":"Trigger➛Demo Request Record","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"reference","base_type":"reference"},{"name":"{{static.29ccd1e7db15f34031c07416bf961928}}","label":"Instance Approvers","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot>a84227f4dbf5b70031c07416bf9619ca</latest_snapshot>
+        <master_snapshot>c03b3d08dbe5374031c07416bf9619e0</master_snapshot>
+        <name>Initiate demo approval</name>
+        <outputs/>
+        <remote_trigger_id>2c3b7d08dbe5374031c07416bf961950</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-14 21:48:29</sys_created_on>
+        <sys_id>a57cdda7db15f34031c07416bf9619b6</sys_id>
+        <sys_mod_count>34</sys_mod_count>
+        <sys_name>Initiate demo approval</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_hub_flow_a57cdda7db15f34031c07416bf9619b6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-31 15:01:12</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=a57cdda7db15f34031c07416bf9619b6"/>
+    <sys_variable_value action="delete_multiple" query="document_key=a57cdda7db15f34031c07416bf9619b6"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>full_name</col_name_string>
+        <index_col_name element="full_name" name="x_snc_sc_instmgr_demo_instances">7b4e5c88dbd5fb0031c07416bf961980</index_col_name>
+        <logical_table_name>x_snc_sc_instmgr_demo_instances</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-05-14 18:18:32</sys_created_on>
+        <sys_id>866cec2bdb91f34031c07416bf961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sc_instmgr_demo_instances</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_index_x_snc_sc_instmgr_demo_instances_full_name</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-14 18:18:32</sys_updated_on>
+        <table display_value="Instances" name="x_snc_sc_instmgr_demo_instances">37b890c4dbd5fb0031c07416bf961914</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

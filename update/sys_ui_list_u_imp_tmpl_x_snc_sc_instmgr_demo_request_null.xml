@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_snc_sc_instmgr_demo_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="u_imp_tmpl_x_snc_sc_instmgr_demo_request" element="NULL" name="u_imp_tmpl_x_snc_sc_instmgr_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a32023d2db65b700025376231f9619cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-23 20:27:17</sys_created_on>
+            <sys_id>2b2023d2db65b700025376231f9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-23 20:27:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="u_imp_tmpl_x_snc_sc_instmgr_demo_request" element="NULL" name="u_imp_tmpl_x_snc_sc_instmgr_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a32023d2db65b700025376231f9619cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-23 20:27:17</sys_created_on>
+            <sys_id>ab2023d2db65b700025376231f9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-23 20:27:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="u_imp_tmpl_x_snc_sc_instmgr_demo_request" element="NULL" name="u_imp_tmpl_x_snc_sc_instmgr_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a32023d2db65b700025376231f9619cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-23 20:27:17</sys_created_on>
+            <sys_id>2f2023d2db65b700025376231f9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-23 20:27:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="u_imp_tmpl_x_snc_sc_instmgr_demo_request" element="NULL" name="u_imp_tmpl_x_snc_sc_instmgr_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a32023d2db65b700025376231f9619cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-23 20:27:17</sys_created_on>
+            <sys_id>af2023d2db65b700025376231f9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-23 20:27:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="u_imp_tmpl_x_snc_sc_instmgr_demo_request" element="NULL" name="u_imp_tmpl_x_snc_sc_instmgr_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a32023d2db65b700025376231f9619cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-23 20:27:17</sys_created_on>
+            <sys_id>232023d2db65b700025376231f9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-23 20:27:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="u_imp_tmpl_x_snc_sc_instmgr_demo_request" element="NULL" name="u_imp_tmpl_x_snc_sc_instmgr_demo_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a32023d2db65b700025376231f9619cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-23 20:27:17</sys_created_on>
+            <sys_id>a32023d2db65b700025376231f9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-23 20:27:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_imp_tmpl_x_snc_sc_instmgr_demo_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-23 20:27:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a32023d2db65b700025376231f9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_snc_sc_instmgr_demo_request</sys_name>
+            <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+            <sys_update_name>sys_ui_list_u_imp_tmpl_x_snc_sc_instmgr_demo_request_null</sys_update_name>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-23 20:27:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

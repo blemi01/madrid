@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_snc_sc_instmgr.demo_request_user" name="x_snc_sc_instmgr.demo_request_user">e3df9961db9dbf0031c07416bf961905</contains>
+        <role display_value="x_snc_sc_instmgr.demo_instances_user" name="x_snc_sc_instmgr.demo_instances_user">f119d0c4dbd5fb0031c07416bf961993</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-10 16:27:39</sys_created_on>
+        <sys_id>feaca3c6db15334031c07416bf961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sc_instmgr.demo_request_user.x_snc_sc_instmgr.demo_instances_user</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_user_role_contains_feaca3c6db15334031c07416bf961992</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-10 16:27:39</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

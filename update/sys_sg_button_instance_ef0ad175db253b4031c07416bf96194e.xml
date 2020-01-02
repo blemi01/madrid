@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Reject">11095535db253b4031c07416bf96191d</button>
+        <description/>
+        <field_name/>
+        <label>Reject Req</label>
+        <location>leading_swipe</location>
+        <name>Reject Req</name>
+        <order>2</order>
+        <parent>2924d63bdbddf34031c07416bf96199f</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-21 21:24:19</sys_created_on>
+        <sys_id>ef0ad175db253b4031c07416bf96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Req</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ef0ad175db253b4031c07416bf96194e</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-21 21:24:19</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ef0ad175db253b4031c07416bf96194e"/>
+</record_update>

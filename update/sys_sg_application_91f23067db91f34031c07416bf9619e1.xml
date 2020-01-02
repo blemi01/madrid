@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description>Mobile version of the instance manager application </description>
+        <icon display_value="file-alt">15f2706fdb91f34031c07416bf9619f6</icon>
+        <name>Instance Manager</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-14 18:47:09</sys_created_on>
+        <sys_id>91f23067db91f34031c07416bf9619e1</sys_id>
+        <sys_mod_count>30</sys_mod_count>
+        <sys_name>Instance Manager</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_sg_application_91f23067db91f34031c07416bf9619e1</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-31 16:20:21</sys_updated_on>
+    </sys_sg_application>
+    <sys_translated_text action="delete_multiple" query="documentkey=91f23067db91f34031c07416bf9619e1"/>
+</record_update>

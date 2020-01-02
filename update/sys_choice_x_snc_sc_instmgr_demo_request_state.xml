@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_sc_instmgr_demo_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_snc_sc_instmgr_demo_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-14 19:21:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25daf0a3dbd1f34031c07416bf9619c9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-14 21:47:34</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_snc_sc_instmgr_demo_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-14 21:47:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c04c1da7db15f34031c07416bf9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-14 21:47:34</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Declined</label>
+            <language>en</language>
+            <name>x_snc_sc_instmgr_demo_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-14 19:21:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69daf0a3dbd1f34031c07416bf9619ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-14 21:46:29</sys_updated_on>
+            <value>-5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_snc_sc_instmgr_demo_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-14 19:21:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1daf0a3dbd1f34031c07416bf9619cb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-14 21:46:29</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_snc_sc_instmgr_demo_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-14 19:21:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>addaf0a3dbd1f34031c07416bf9619cc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-14 21:46:29</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_snc_sc_instmgr_demo_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-14 19:21:35</sys_created_on>
+            <sys_id>02ca37784fb5734090188ff18110c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+            <sys_update_name>sys_choice_x_snc_sc_instmgr_demo_request_state</sys_update_name>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-14 19:21:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

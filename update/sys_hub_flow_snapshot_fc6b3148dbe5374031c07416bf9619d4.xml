@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>This flow will set the state on the instance to assigned, create an instance req history record and set the state on the request to in progress.</description>
+        <internal_name>assign_demo_request</internal_name>
+        <label_cache>[{"name":"13833067-5a65-4905-a0bd-a22bac15478c.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"13833067-5a65-4905-a0bd-a22bac15478c.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Created or Updated_1.current.number","label":"Trigger➛Demo Request Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_sc_instmgr_demo_request","column_name":"number"},{"name":"d3ddede0-c5e9-4fae-a552-5b5370cf7e2f.record","label":"1➛Demo Request Record","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"reference","base_type":"reference"},{"name":"d3ddede0-c5e9-4fae-a552-5b5370cf7e2f.table_name","label":"1➛Demo Request Table","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"table_name","base_type":"table_name"},{"name":"Created or Updated_1.current","label":"Trigger➛Demo Request Record","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"reference","base_type":"reference"},{"name":"708f9505-114e-4d41-a57f-c5538c48b916.record","label":"2➛Demo Instances Record","reference":"x_snc_sc_instmgr_demo_instances","reference_display":"Demo Instances","type":"reference","base_type":"reference"},{"name":"708f9505-114e-4d41-a57f-c5538c48b916.table_name","label":"2➛Demo Instances Table","reference":"x_snc_sc_instmgr_demo_instances","reference_display":"Demo Instances","type":"table_name","base_type":"table_name"},{"name":"Created or Updated_1.current.assigned_instance","label":"Trigger➛Demo Request Record➛Assigned Instance","reference":"x_snc_sc_instmgr_demo_instances","reference_display":"Demo Instances","type":"reference","base_type":"reference","parent_table_name":"x_snc_sc_instmgr_demo_request","column_name":"assigned_instance"}]</label_cache>
+        <master>true</master>
+        <name>Assign Demo Request</name>
+        <outputs/>
+        <parent_flow display_value="Assign Demo Request">6d1101a7dbd1f34031c07416bf961968</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-16 13:20:34</sys_created_on>
+        <sys_id>fc6b3148dbe5374031c07416bf9619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assign Demo Request</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_fc6b3148dbe5374031c07416bf9619d4</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-16 13:20:34</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=fc6b3148dbe5374031c07416bf9619d4"/>
+    <sys_variable_value action="delete_multiple" query="document_key=fc6b3148dbe5374031c07416bf9619d4"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerUniqueChange</binding_strategy>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"596b7148dbe5374031c07416bf961913","name":"plan"}}</plan>
+        <plan_id>6d1101a7dbd1f34031c07416bf961968</plan_id>
+        <snapshot>eaa077fcdbf5b70031c07416bf96197d</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-16 13:20:36</sys_created_on>
+        <sys_id>596b7148dbe5374031c07416bf961913</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>116b7148dbe5374031c07416bf961912</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_596b7148dbe5374031c07416bf961913</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-22 17:02:50</sys_updated_on>
+        <trigger display_value="">116b7148dbe5374031c07416bf961912</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

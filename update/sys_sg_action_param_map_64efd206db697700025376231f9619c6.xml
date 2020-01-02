@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Reject">11095535db253b4031c07416bf96191d</button>
+        <item_parameter display_value="Reject Reason">fa1f9ac2db697700025376231f9619e2</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-22 21:08:09</sys_created_on>
+        <sys_id>64efd206db697700025376231f9619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fa1f9ac2db697700025376231f9619e2</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_64efd206db697700025376231f9619c6</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-22 21:08:09</sys_updated_on>
+        <ui_parameter display_value="Reject Reason">9c7fdec2db697700025376231f961918</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

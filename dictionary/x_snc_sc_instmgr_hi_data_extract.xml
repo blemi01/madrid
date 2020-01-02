@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="HI Data Extract" max_length="40" name="x_snc_sc_instmgr_hi_data_extract" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="40" name="u_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned version" label="Assigned version" max_length="40" name="u_assigned_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Created" label="Created" max_length="40" name="u_created" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Domain separated" max_length="40" name="u_domain_separated" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Operational status" label="Operational status" max_length="40" name="u_operational_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reported WAR version" label="Reported WAR version" max_length="63" name="u_reported_war_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Suffix (calc)" label="Suffix (calc)" max_length="40" name="u_suffix__calc_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Type/Purpose" max_length="40" name="u_type_purpose" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Used for" label="Used for" max_length="40" name="u_used_for" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Use this to request a demonstration</description>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">faf77984dbe5374031c07416bf96195d</icon>
+        <name>Request a Demo</name>
+        <order>10</order>
+        <parent>6767b184dbe5374031c07416bf96190e</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-16 13:06:30</sys_created_on>
+        <sys_id>72f77984dbe5374031c07416bf96196f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Request a Demo</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_72f77984dbe5374031c07416bf96196f</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-16 13:12:37</sys_updated_on>
+        <url>https://mbledsoe1.service-now.com/nav_to.do?uri=/x_snc_sc_instmgr_demo_request.do%3Fsys_id%3D-1%26sysparm_stack%3Dx_snc_sc_instmgr_demo_request_list.do%26sysparm_view%3Dnewdemo</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=72f77984dbe5374031c07416bf96196f"/>
+</record_update>

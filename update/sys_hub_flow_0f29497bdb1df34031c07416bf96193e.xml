@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>This flow will return the instance to an available state on completion of the demo</description>
+        <internal_name>release_instance</internal_name>
+        <label_cache>[{"name":"a575be81-6978-4ba0-b258-fcdbaa9a077e.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"a575be81-6978-4ba0-b258-fcdbaa9a077e.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"Updated_1.current.assigned_instance","label":"Trigger➛Demo Request Record➛Assigned Instance","reference":"x_snc_sc_instmgr_demo_instances","reference_display":"Instances","type":"reference","base_type":"reference","parent_table_name":"x_snc_sc_instmgr_demo_request","column_name":"assigned_instance"},{"name":"Updated_1.current","label":"Trigger➛Demo Request Record","reference":"x_snc_sc_instmgr_demo_request","reference_display":"Demo Request","type":"reference","base_type":"reference"},{"name":"24417a5f-e38a-4b1f-a5c2-2b1f86ff09ec.Record","label":"1➛Demo Instances Record","reference":"x_snc_sc_instmgr_demo_instances","reference_display":"Instances","type":"reference","base_type":"reference"},{"name":"24417a5f-e38a-4b1f-a5c2-2b1f86ff09ec.Table","label":"1➛Demo Instances Table","reference":"x_snc_sc_instmgr_demo_instances","reference_display":"Instances","type":"table_name","base_type":"table_name"},{"name":"Updated_1.current.assigned_instance.full_name","label":"Trigger➛Demo Request Record➛Assigned Instance➛Full Name","reference":"","reference_display":"Full Name","type":"string","base_type":"string","parent_table_name":"x_snc_sc_instmgr_demo_instances","column_name":"full_name"},{"name":"3faa86d0-94b3-4920-81ee-a6ca6756a071.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"3faa86d0-94b3-4920-81ee-a6ca6756a071.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"}]</label_cache>
+        <latest_snapshot>1d386bb8dbf5b70031c07416bf9619fa</latest_snapshot>
+        <master_snapshot>7cf771b7db9df34031c07416bf961971</master_snapshot>
+        <name>Release Instance</name>
+        <outputs/>
+        <remote_trigger_id>ddf771b7db9df34031c07416bf9619ce</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-15 15:02:42</sys_created_on>
+        <sys_id>0f29497bdb1df34031c07416bf96193e</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Release Instance</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_hub_flow_0f29497bdb1df34031c07416bf96193e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-31 15:27:11</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=0f29497bdb1df34031c07416bf96193e"/>
+    <sys_variable_value action="delete_multiple" query="document_key=0f29497bdb1df34031c07416bf96193e"/>
+</record_update>

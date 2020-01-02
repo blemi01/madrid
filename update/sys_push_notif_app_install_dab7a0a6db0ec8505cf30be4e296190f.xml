@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2020-01-02 18:22:24</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2020-01-02 18:22:24</sys_created_on>
+        <sys_id>dab7a0a6db0ec8505cf30be4e296190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>47FE58C75745939904E14F9B65AFFC798EE12550B68F3FAC889469B73C6649B9</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_dab7a0a6db0ec8505cf30be4e296190f</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2020-01-02 18:22:24</sys_updated_on>
+        <sys_user_id display_value="Michael Bledsoe">a7b0f4464f04b70090188ff18110c78d</sys_user_id>
+        <token>47FE58C75745939904E14F9B65AFFC798EE12550B68F3FAC889469B73C6649B9</token>
+    </sys_push_notif_app_install>
+</record_update>

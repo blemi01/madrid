@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="first_custom_use_case" label="First Custom Use Case" language="en" table="x_snc_sc_instmgr_demo_instances">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>first_custom_use_case</element>
+            <help/>
+            <hint/>
+            <label>First Custom Use Case</label>
+            <language>en</language>
+            <name>x_snc_sc_instmgr_demo_instances</name>
+            <plural>First Custom Use Cases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mikeb</sys_created_by>
+            <sys_created_on>2019-05-03 20:07:30</sys_created_on>
+            <sys_id>cbdb9048dbd5fb0031c07416bf9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First Custom Use Case</sys_name>
+            <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_sc_instmgr_demo_instances_first_custom_use_case_en</sys_update_name>
+            <sys_updated_by>mikeb</sys_updated_by>
+            <sys_updated_on>2019-05-03 20:07:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

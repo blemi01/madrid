@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Instances" max_length="40" name="x_snc_sc_instmgr_demo_instances" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Assigned Demo Request" max_length="32" name="assigned_demo_request" reference="x_snc_sc_instmgr_demo_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned Version" max_length="40" name="assigned_version" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CSM Showcase" max_length="40" name="csm_showcase" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Display Project Info" max_length="40" name="display_project_info" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Domain Separated" max_length="40" name="domain_separated" read_only="true" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="First Custom Use Case" max_length="1000" name="first_custom_use_case" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Full Name" max_length="100" name="full_name" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HI Assigned to" max_length="100" name="hi_assigned_to" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HI Company" max_length="100" name="hi_company" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HI Created Date" max_length="40" name="hi_created_date" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HI Purpose" max_length="40" name="hi_purpose" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HI Reported Version" max_length="100" name="hi_reported_version" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hi Status" max_length="40" name="hi_status" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HI Used For" max_length="40" name="hi_used_for" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HR Showcase" max_length="40" name="hr_showcase" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Instance Name" max_length="40" name="instance_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ITBM Showcase" max_length="40" name="itbm_showcase" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="ITOM Showcase" max_length="40" name="itom_showcase" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="ITSM Showcase" max_length="40" name="itsm_showcase" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Platform Showcase" max_length="40" name="platform_showcase" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary Use Case Content" max_length="100" name="primary_use_case_content" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SAM Showcase" max_length="40" name="sam_showcase" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Second Custom Use Case" max_length="1000" name="second_custom_use_case" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Security Showcase" max_length="40" name="security_showcase" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Third Custom Use Case" max_length="1000" name="third_custom_use_case" type="string"/>
+    </element>
+</database>

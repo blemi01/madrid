@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Non-Production Instances item view">2499dbb8dbb13f00025376231f961947</item_view>
+        <name>Master Item</name>
+        <screen display_value="Non-Production Instances">38995bb8dbb13f00025376231f961923</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-31 14:23:14</sys_created_on>
+        <sys_id>f899dbb8dbb13f00025376231f96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_sg_master_item_f899dbb8dbb13f00025376231f96197a</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-31 14:23:14</sys_updated_on>
+        <table>x_snc_sc_instmgr_demo_instances</table>
+    </sys_sg_master_item>
+</record_update>

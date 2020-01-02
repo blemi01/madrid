@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">91612316db65b700025376231f9619c1</block>
+        <comment/>
+        <connected_to>ca9d6875-7b7f-4298-bdb5-e58f5721d913</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="Initiate demo approval">c03b3d08dbe5374031c07416bf9619e0</flow>
+        <inputs/>
+        <logic_definition display_value="Else If">666e5545c3e232002841b63b12d3ae99</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-23 20:32:44</sys_created_on>
+        <sys_id>ab616316db65b700025376231f9619f6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SC Instance Manager" source="x_snc_sc_instmgr">5c981884dbd5fb0031c07416bf961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SC Instance Manager">5c981884dbd5fb0031c07416bf961939</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_ab616316db65b700025376231f9619f6</sys_update_name>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-23 20:32:45</sys_updated_on>
+        <ui_id>a1c9dd27-9923-4821-9c52-5aaecdc056e3</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=ab616316db65b700025376231f9619f6"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ab616316db65b700025376231f9619f6</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-23 20:32:44</sys_created_on>
+        <sys_id>27616316db65b700025376231f9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-23 20:32:44</sys_updated_on>
+        <value>Rejected</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ab616316db65b700025376231f9619f6</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>mikeb</sys_created_by>
+        <sys_created_on>2019-05-23 20:32:44</sys_created_on>
+        <sys_id>63616316db65b700025376231f9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mikeb</sys_updated_by>
+        <sys_updated_on>2019-05-23 20:32:44</sys_updated_on>
+        <value>{{9f17b9a9-65cb-4dc2-966a-4d5ce814078f.approval_state}}=rejected</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea1</variable>
+    </sys_variable_value>
+</record_update>
